@@ -1,9 +1,14 @@
 {
-  "name": "website",
+  "name": "www",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Mehdi",
+    "email": "pyr33x@pyr33x.ir",
+    "url": "https://x.com/Pyr33x"
+  },
   "scripts": {
-    "dev": "next dev -p 2017",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
