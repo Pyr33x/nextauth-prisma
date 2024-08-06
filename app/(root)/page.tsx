@@ -22,6 +22,14 @@ function Header() {
           This is a boilerplate template for{" "}
           <span className="font-mono">"Next-Auth@Beta" + "Prisma"</span> stack.
         </p>
+        <a
+          href="https://github.com/pyr33x/nextauth-prisma"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="my-2 text-center font-mono text-lg font-bold text-blue-500 hover:underline"
+        >
+          Source on Github
+        </a>
       </div>
     </>
   );
