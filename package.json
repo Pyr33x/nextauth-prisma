@@ -19,7 +19,7 @@
     "@auth/prisma-adapter": "^2.4.1",
     "@prisma/client": "^5.17.0",
     "@vercel/postgres": "^0.9.0",
-    "next": "14.2.5",
+    "next": "14.2.30",
     "next-auth": "5.0.0-beta.19",
     "react": "^18",
     "react-dom": "^18"
